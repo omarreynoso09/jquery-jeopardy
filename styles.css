@@ -94,6 +94,7 @@ footer {
   justify-content: center;
   margin-top: 25px;
   margin-left: 25px;
+  margin-right: 25px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-weight: 500;
@@ -112,4 +113,5 @@ footer {
   border: 2px solid black;
   font-weight: bold;
   border-radius: 2px;
+  margin-right: 25px;
 }
